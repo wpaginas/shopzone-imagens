@@ -417,5 +417,399 @@
    "var3.jpg",
    "var4.jpg"
   ]
+ },
+ "SZ-COZ-CAPSULAS": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-COZ-TORRE-NESPRESSO": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-COZ-PORTA-FILTRO": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-COZ-PORTA-SACHES": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-COZ-LET-CAFE": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg"
+  ]
+ },
+ "SZ-COZ-ARVORE-CANECAS": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-COZ-PORTA-COPOS": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-COZ-PRENDEDOR": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg",
+   "var5.jpg"
+  ]
+ },
+ "SZ-COZ-PRENDEDOR-BICHOS": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "06.jpg"
+  ],
+  "variacoes": []
+ },
+ "SZ-COZ-SUPORTE-TAMPA": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-COZ-TAMPAS-POTES": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-COZ-SUPORTE-TABUAS": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-COZ-PORTA-UTENSILIOS": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-COZ-DESCANSO-COLHER": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-COZ-PAPEL-TOALHA": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-COZ-PUXA-SACO": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-COZ-TRAVA-PANO": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-COZ-SUPORTE-TABLET": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-COZ-APOIO-COLHER": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-COZ-PORTA-OVOS": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-COZ-SUPORTE-BANANA": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-COZ-TOALHEIRO-PORTA": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-COZ-PORTA-GUARDANAPO": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-COZ-PORTA-TEMPEROS": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-COZ-ORGANIZADOR-PIA": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
  }
 }
