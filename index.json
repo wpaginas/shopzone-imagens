@@ -273,5 +273,64 @@
    "var2.jpg",
    "var3.jpg"
   ]
+ },
+ "SZ-TRIO-ESTRELAS": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg"
+  ]
+ },
+ "SZ-PORTA-VELA-BELEM": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg"
+  ]
+ },
+ "SZ-ENFEITES-ARVORE": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-PRESEPIO-SILHUETA": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg"
+  ]
  }
 }
