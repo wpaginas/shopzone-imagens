@@ -159,5 +159,61 @@
    "var2.jpg",
    "var3.jpg"
   ]
+ },
+ "SZ-PET-PATINHA": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg"
+  ]
+ },
+ "SZ-ARVORE-LED": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg"
+  ]
+ },
+ "SZ-PORTA-GUARDANAPO": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg"
+  ]
+ },
+ "SZ-MARCADOR-LUGAR": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg"
+  ]
  }
 }
