@@ -215,5 +215,63 @@
    "var2.jpg",
    "var3.jpg"
   ]
+ },
+ "SZ-PORTA-COPOS": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg"
+  ]
+ },
+ "SZ-INTERRUPTOR": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg"
+  ]
+ },
+ "SZ-GUIRLANDA": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg"
+  ]
+ },
+ "SZ-ARVORE-PORTA-BOMBOM": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg"
+  ]
  }
 }
