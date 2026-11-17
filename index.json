@@ -811,5 +811,405 @@
    "var3.jpg",
    "var4.jpg"
   ]
+ },
+ "SZ-UD-PORTA-ESCOVA": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-UD-SABONETEIRA": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-UD-SUPORTE-SECADOR": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-UD-PORTA-COTONETE": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-UD-PRATELEIRA-CANTO": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-UD-PAPEL-RESERVA": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-UD-GANCHO-BARBEADOR": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-UD-SUPORTE-VASSOURA": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-UD-PORTA-PREGADOR": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-UD-SUPORTE-FERRO": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-UD-GANCHO-PORTA": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-UD-PORTA-CHAVES": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-UD-PORTA-CONTROLE": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-UD-BATENTE": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-UD-PRENDEDOR-CORTINA": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-UD-SUPORTE-BONE": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-UD-SUPORTE-ROTEADOR": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-UD-SUPORTE-CELULAR": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-UD-SUPORTE-FONE": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-UD-ORGANIZADOR-CABOS": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-UD-SUPORTE-TOMADA": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-UD-PORTA-CANETAS": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-UD-SUPORTE-NOTEBOOK": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-UD-DIVISORIA-GAVETA": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
+ },
+ "SZ-UD-PORTA-JOIAS": {
+  "imagens": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg"
+  ],
+  "variacoes": [
+   "var1.jpg",
+   "var2.jpg",
+   "var3.jpg",
+   "var4.jpg"
+  ]
  }
 }
